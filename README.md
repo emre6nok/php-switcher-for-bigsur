@@ -1,4 +1,4 @@
-# php-switcher-for-bigsur
+# php version switcher for bigsur (homebrew)
 
 first set your $path like this (remove all php@v/cellar):
 
